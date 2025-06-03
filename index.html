@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's Your Bugaboo?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app-container">
+        <section id="welcome-screen" class="screen">
+            <h1 id="app-title">What's Your Bugaboo?</h1>
+            <p id="app-tagline">Welcome, please slither on in to our <strong>Insectarium of Introspection</strong>. Ask our Hive-minded Bug-oracle to reveal the wisdom of your Bugaboos.</p>
+            <button id="start-button">If you're ready? 🪲 Let's Begin!</button>
+            <div class="footer-box">
+                <p class="footer-tagline">🐜30 Bugaboos. No Pheromone Tracking. Just Lolz and Vibes.🐜</p>
+            </div>
+        </section>
+
+        <section id="selection-screen" class="screen" style="display: none;">
+            <div class="instructions-box">
+                <h2>There are 30 Bugaboos.</h2>
+                <p>Choose 1 - 3 that you vibe with today!</p>
+                <p>(Click "Scuttle the Bugs" to select different Bugaboos.)</p>
+                <p>When you have picked your Bugaboos, release the Bug-oracles.</p>
+            </div>
+
+            <div id="main-selection-area">
+                <div id="selection-buttons-group">
+                    <button id="scramble-button">Scuttle the Bugs!</button>
+                    <button id="wisdom-button" disabled>Release the Bug-oracle wisdom!</button>
+                    <button id="back-to-welcome-button">⬅️ Back</button>
+                </div>
+                <div id="bugaboo-options-container">
+                    </div>
+            </div>
+        </section>
+
+        <section id="quote-screen" class="screen" style="display: none;">
+            <h2>Your Bugaboo Wisdom</h2>
+            <div id="quotes-container">
+                </div>
+            <div id="share-actions">
+                <button id="share-to-x-button">🐦 Share Bug-oracles on X</button>
+                <button id="start-over-button">Start Over</button>
+            </div>
+        </section>
+    </div>
+
+    <footer id="app-footer">
+        <p>Created with Entomological Enthusiasm! Visit <a href="https://bugzoo.com/" target="_blank" rel="noopener noreferrer">The Bug Zoo</a> or connect on <a href="https://www.linkedin.com/in/international-bug-zoos-inc-carol-maier-23b095135/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+        </footer>
+
+    <script src="bug_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
