@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const randomQuoteSoundFiles = [
         'sounds/chime-sound-7143.mp3',
-        'sounds/cricket-chirp-56209.mp3',
+        'sounds/magic-3-278824.mp3',
         'sounds/cricket-chirp-101026.mp3',
         'sounds/happy-humming-6202.mp3',
         'sounds/happy-noisesmp3-14568.mp3',
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let selectedBugaboos = [];
     const MAX_SELECTIONS = 3;
 
-    const APP_BASE_URL = window.location.origin + window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+    const APP_BASE_URL = "https://bugaboo-app.vercel.app/";
 
     function displayBugabooOptions() {
         bugabooOptionsContainer.innerHTML = '';
