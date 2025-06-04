@@ -1,5 +1,5 @@
 const bugabooInsights = {
-  "Archaeognatha": {
+  "archaeognatha": {
     commonName: "Jumping Bristletails",
  vibe: "Feeling ancient and primitive while everyone else seems evolved. Like you're surprisingly effective despite using outdated methods. Having hidden agility that catches people completely off guard.",
     quotes: [
@@ -20,7 +20,7 @@ const bugabooInsights = {
       "Wings are just peer pressure with feathers. You said 'thanks but no thanks' 400 million years ago and have been crushing it ever since. That's not primitive, love. That's principled."
     ]
   },
-  "Zygentoma": {
+  "zygentoma": {
     commonName: "Silverfish",
 vibe: "Feeling like you're stuck in old patterns while everyone else moves forward. Drawn to comfort zones that others might judge as \"settling.\" Like you're sneaking around the edges instead of taking center stage.",
     quotes: [
@@ -41,7 +41,7 @@ vibe: "Feeling like you're stuck in old patterns while everyone else moves forwa
       "Wingless and wonderful, you prove that evolution isn't about adding features. It's about perfecting your niche. And your niche just happens to be everyone else's neglected corners. You're loved, you shimmering shadow-dancer."
     ]
   },
-  "Ephemeroptera": {
+  "ephemeroptera": {
     commonName: "Mayflies",
 vibe: "Time feels like it's running out before you've made your mark. Living so intensely it's almost overwhelming and unsustainable. Like your window of opportunity is beautiful but terrifyingly brief.",
     quotes: [
@@ -62,7 +62,7 @@ vibe: "Time feels like it's running out before you've made your mark. Living so 
       "One perfect day to find love, create life, and dance yourself into legend? Some get a century and do less. You're not rushed, darling, you're efficient. Fabulously, gloriously efficient."
     ]
   },
-  "Odonata": {
+  "odonata": {
     commonName: "Dragonflies & Damselflies",
 vibe: "Needing clarity but your thoughts keep darting in every direction. Feeling powerful but scattered, like you can't focus that energy properly. Seeing too many angles and possibilities to make a clear decision.",
     quotes: [
@@ -83,7 +83,7 @@ vibe: "Needing clarity but your thoughts keep darting in every direction. Feelin
       "Swift changes coming? Please. You can accelerate from zero to zoom in a heartbeat, brake mid-air, and pivot on a dewdrop. Change isn't your challenge, it's your dance floor."
     ]
   },
-  "Plecoptera": {
+  "plecoptera": {
     commonName: "Stoneflies",
 vibe: "Like you can only thrive under perfect conditions that rarely exist. Too sensitive for this harsh world, easily overwhelmed by chaos. Feeling fragile and vulnerable when things get rough around you.",
     quotes: [
@@ -104,7 +104,7 @@ vibe: "Like you can only thrive under perfect conditions that rarely exist. Too 
       "They say you're an indicator species, but really you're a truth-teller. In a world full of creatures that'll tolerate anything, you're brave enough to demand better. Keep those standards high, you pristine little prophet."
     ]
   },
-  "Embioptera": {
+  "embioptera": {
     commonName: "Webspinners & Footspinners",
 vibe: "Hiding away in your comfort zone while life happens outside. Too shy or reclusive to put yourself out there properly. Like you need to control every detail of your environment to feel safe.",
     quotes: [
@@ -125,7 +125,7 @@ vibe: "Hiding away in your comfort zone while life happens outside. Too shy or r
       "Creating your own microclimate of warm, humid perfection? You're not high-maintenance, you're a comfort engineer who refuses to compromise. Your feet literally weave self-care into existence."
     ]
   },
-  "Zoraptera": {
+  "zoraptera": {
     commonName: "Angel Insects",
 vibe: "Feeling invisible and overlooked despite having so much to offer. Like your simple approach gets dismissed in a flashy world. Undervalued and unnoticed, even though you know you matter.",
     quotes: [
@@ -146,7 +146,7 @@ vibe: "Feeling invisible and overlooked despite having so much to offer. Like yo
       "So tiny that most people never know you exist, yet you're quietly essential to the ecosystem? Darling, that's not insignificance, that's being too important for publicity. You're heaven's best-kept secret, operating on a need-to-know basis."
     ]
   },
-  "Dermaptera": {
+  "dermaptera": {
     commonName: "Earwigs",
 vibe: "Misunderstood because of your intimidating exterior or bad reputation. Feeling defensive and protective but coming across as aggressive. Like people judge you harshly without seeing your caring heart.",
     quotes: [
@@ -167,7 +167,7 @@ vibe: "Misunderstood because of your intimidating exterior or bad reputation. Fe
       "Living proof that the best parents often look the scariest to everyone else? Your intimidation factor is just your love turned outward. Nobody messes with your babies, and that's not creepy, that's goals."
     ]
   },
-  "Orthoptera": {
+  "orthoptera": {
     commonName: "Grasshoppers & Crickets & Katydids",
 vibe: "Frustrated because your voice isn't being heard above the noise. Restless and impatient, like you need to make a big move soon. Bursting with something authentic that demands expression.",
     quotes: [
@@ -188,7 +188,7 @@ vibe: "Frustrated because your voice isn't being heard above the noise. Restless
       "Male? Female? Who cares. Everyone can make some kind of music. You're the most egalitarian orchestra in nature. Every voice matters, every leap counts, every song adds to the symphony."
     ]
   },
-  "Phasmatodea": {
+  "phasmatodea": {
     commonName: "Stick Insects & Leaf Insects & Walking Sticks",
 vibe: "Feeling invisible and overlooked, like you blend into the background. Too patient for your own good while opportunities pass you by. Underestimated because your quiet nature gets mistaken for weakness.",
     quotes: [
@@ -209,7 +209,7 @@ vibe: "Feeling invisible and overlooked, like you blend into the background. Too
       "Exotic-looking when finally noticed? That's because excellence can only hide for so long. You're not part of the scenery, you're the plot twist everyone missed until the perfect moment."
     ]
   },
-  "Grylloblattodea": {
+  "grylloblattodea": {
     commonName: "Ice Crawlers & Rock Crawlers",
 vibe: "Thriving in tough conditions while others complain and retreat. Like you're built for hardship that would break most people. Finding your element in places others consider harsh or unwelcoming.",
     quotes: [
@@ -230,7 +230,7 @@ vibe: "Thriving in tough conditions while others complain and retreat. Like you'
       "Finding beauty in desolate, frozen wastelands? You're not delusional. You're seeing the world without the clutter of fair-weather tourists. Every glacier is your private gallery, every ice cave your personal spa."
     ]
   },
-  "Mantophasmatodea": {
+  "mantophasmatodea": {
     commonName: "Gladiators & Heelwalkers & Mantophasmids",
 vibe: "Like you're an oddball whose unique traits don't fit anywhere. Your distinctive way of doing things seems weird to everyone else. Still figuring out how to balance all your contradictory qualities.",
     quotes: [
@@ -251,7 +251,7 @@ vibe: "Like you're an oddball whose unique traits don't fit anywhere. Your disti
       "Balancing different aspects of your nature? Darling, you're not torn between identities. You're proof that the best things come from unexpected combinations. Mantis meets stick meets runway model meets tiny gladiator. That's not confusion; that's complexity."
     ]
   },
-  "Mantodea": {
+  "mantodea": {
     commonName: "Mantids & Praying Mantises",
 vibe: "Waiting endlessly for the perfect moment that may never come. Holding back your intensity when you should probably unleash it. Like you're all focus and potential energy with nowhere to strike.",
     quotes: [
@@ -272,7 +272,7 @@ vibe: "Waiting endlessly for the perfect moment that may never come. Holding bac
       "Your whole existence is a masterclass in 'speak softly and carry big spiky forelegs.' Teddy Roosevelt would be proud, if he wasn't worried about becoming lunch."
     ]
   },
-  "Blattodea": {
+  "blattodea": {
     commonName: "Cockroaches & Termites",
 vibe: "Surviving everything but getting no credit, only judgment. Unfairly labeled despite your incredible resilience and adaptability. Thriving in tough situations while carrying an undeserved bad reputation.",
     quotes: [
@@ -293,7 +293,7 @@ vibe: "Surviving everything but getting no credit, only judgment. Unfairly label
       "Three hundred million years of success and still humble enough to eat leftovers? That's not desperation. That's knowing your worth isn't determined by your menu. You're timeless, resourceful, and absolutely unstoppable."
     ]
   },
-  "Psocodea": {
+  "psocodea": {
     commonName: "Booklice & Barklice & Parasitic Lice",
 vibe: "Obsessing over tiny details while missing the bigger picture. Feeling too dependent on others or clinging to old things. Like you're living off scraps in a world that's moving beyond you.",
     quotes: [
@@ -314,7 +314,7 @@ vibe: "Obsessing over tiny details while missing the bigger picture. Feeling too
       "Living among ancient texts or ancient feathers, you're proof that the old ways still matter. You're not obsolete. You're vintage, essential, and quietly keeping the world's forgotten corners alive."
     ]
   },
-  "Thysanoptera": {
+  "thysanoptera": {
     commonName: "Thrips",
 vibe: "Feeling small and insignificant despite making a real impact. Like you're annoying or bothering people just by being yourself. Having unconventional methods that work but aren't appreciated.",
     quotes: [
@@ -335,7 +335,7 @@ vibe: "Feeling small and insignificant despite making a real impact. Like you're
       "Feeling overlooked until suddenly everyone's paying attention? That's the thrips way. Invisible until critical mass, ignorable until undeniable. You're not just present; you're eventually omnipresent."
     ]
   },
-  "Hemiptera": {
+  "hemiptera": {
     commonName: "True Bugs",
 vibe: "Misunderstood because your true nature doesn't fit neat categories. Having a sharp, direct approach that rubs people the wrong way. Incredibly adaptable but never quite fitting in anywhere perfectly.",
     quotes: [
@@ -356,7 +356,7 @@ vibe: "Misunderstood because your true nature doesn't fit neat categories. Havin
       "They call you 'True Bugs' because even science recognizes your authenticity. You're not pretending to be anything else. You're pointedly, proudly, persistently yourself. That's true success."
     ]
   },
-  "Neuroptera": {
+  "neuroptera": {
     commonName: "Lacewings & Antlions & Mantidflies & Owlflies",
 vibe: "Looking gentle and delicate when you're actually fierce inside. Cleaning up messes and solving problems without getting recognition. Like your helpful nature gets overlooked because you're not flashy.",
     quotes: [
@@ -377,7 +377,7 @@ vibe: "Looking gentle and delicate when you're actually fierce inside. Cleaning 
       "Wearing beauty like armor while your children wage war on aphids? That's not contradiction. That's having your cake and eating pests too. You've mastered the art of being simultaneously heaven-sent and hell-bent."
     ]
   },
-  "Megaloptera": {
+  "megaloptera": {
     commonName: "Dobsonflies & Alderflies & Hellgrammites",
 vibe: "Your intimidating appearance scares people away before they know you. Going through dramatic changes that feel monstrous and overwhelming. Having impressive abilities that feel ceremonial rather than useful.",
     quotes: [
@@ -398,7 +398,7 @@ vibe: "Your intimidating appearance scares people away before they know you. Goi
       "Looking like an alien face-hugger as a baby but growing up to be a peaceful stream-dweller? That's not false advertising. That's character development. Your origin story is just more dramatic than most."
     ]
   },
-  "Raphidioptera": {
+  "raphidioptera": {
     commonName: "Snakeflies",
 vibe: "Feeling old-fashioned or outdated in a fast-moving world. Waiting patiently for your moment while everyone else rushes ahead. Like your unique perspective isn't valued in current times.",
     quotes: [
@@ -419,7 +419,7 @@ vibe: "Feeling old-fashioned or outdated in a fast-moving world. Waiting patient
       "They say you look old-fashioned, but you're out here with built-in image stabilization and 180-degree rotation. You're not primitive. You're so advanced it took millions of years for cameras to catch up."
     ]
   },
-  "Coleoptera": {
+  "coleoptera": {
     commonName: "Beetles",
 vibe: "Stuck in a protective shell that's becoming more prison than armor. Feeling clumsy and earthbound when you know you could soar. Hidden capabilities that no one expects because of your tough exterior.",
     quotes: [
@@ -440,7 +440,7 @@ vibe: "Stuck in a protective shell that's becoming more prison than armor. Feeli
       "Strongest insect relative to size, most diverse order on the planet, found literally everywhere? You're not just surviving—you're the definition of thriving. Your shell isn't armor; it's a crown worn by Earth's most successful dynasty."
     ]
   },
-  "Strepsiptera": {
+  "strepsiptera": {
     commonName: "Twisted-wing Parasites & Strepsipterans",
 vibe: "Living such a unique lifestyle that no one understands or relates. So deeply connected to others that you're losing your own identity. Influencing from within while feeling invisible and unacknowledged.",
     quotes: [
@@ -461,7 +461,7 @@ vibe: "Living such a unique lifestyle that no one understands or relates. So dee
       "Your entire existence challenges what people think is possible? Brilliant. You're not an alien. You're an earth-native reminder that reality is stranger and more wonderful than our wildest dreams. Keep bending minds, you twisted-wing wonder."
     ]
   },
-  "Hymenoptera": {
+  "hymenoptera": {
     commonName: "Bees & Wasps & Ants",
 vibe: "Overwhelmed by endless work and social obligations buzzing around you. Feeling defensive and protective but coming across as aggressive. Burnt out from creating sweetness while having to sting when threatened.",
     quotes: [
@@ -482,7 +482,7 @@ vibe: "Overwhelmed by endless work and social obligations buzzing around you. Fe
       "Feel like just another worker in an endless colony? Honey, you're not replaceable. You're essential. The hive doesn't work without each bee, the hill doesn't rise without each ant. Your small part is someone else's everything."
     ]
   },
-  "Trichoptera": {
+  "trichoptera": {
     commonName: "Caddisflies & Sedge-flies & Rail-flies",
 vibe: "Building protective barriers from whatever scraps life gives you. Feeling like you have to construct your own safety from nothing. Resourceful but tired of always having to make do with less.",
     quotes: [
@@ -503,7 +503,7 @@ vibe: "Building protective barriers from whatever scraps life gives you. Feeling
       "Your carefully constructed case looks like random junk to others? Their loss. You see treasure where they see trash, build homes where they see hopelessness. That's not delusion. That's vision, one grain of sand at a time."
     ]
   },
-  "Mecoptera": {
+  "mecoptera": {
     commonName: "Scorpionflies & Hangingflies & Snow Scorpionflies",
 vibe: "Your unique qualities are constantly misunderstood or judged. Giving thoughtful gifts or gestures that people find weird. Like your perfectly logical approach seems bizarre to everyone else.",
     quotes: [
@@ -524,7 +524,7 @@ vibe: "Your unique qualities are constantly misunderstood or judged. Giving thou
       "They call you an evolutionary enigma? Good. You're not meant to be easily categorized. You're the bug equivalent of a David Lynch film. Beautiful, strange, and impossible to forget. Keep them guessing, you magnificent oddity."
     ]
   },
-  "Siphonaptera": {
+  "siphonaptera": {
     commonName: "Fleas",
 vibe: "Restless and jumpy, always moving but never quite settling. Your talents feel specialized to the point of being annoying. Making a big impact but in ways that irritate rather than impress.",
     quotes: [
@@ -545,7 +545,7 @@ vibe: "Restless and jumpy, always moving but never quite settling. Your talents 
       "Making others uncomfortable with your very existence? Good. Comfort breeds complacency. You're a tiny reminder that life includes challenges, and sometimes those challenges have world-class vertical leaps and really know how to hang on."
     ]
   },
-  "Diptera": {
+  "diptera": {
     commonName: "True Flies",
 vibe: "Your energy and presence overwhelm people who prefer quiet. Going through major changes that happen too fast for others to see. Playing vital roles that are completely unappreciated or even reviled.",
     quotes: [
@@ -566,7 +566,7 @@ vibe: "Your energy and presence overwhelm people who prefer quiet. Going through
       "Feeling misunderstood because you process garbage into garden gold? Darling, you're not annoying. You're alchemy in action. You literally turn death into life, decay into renewal. If that's not magic, what is? Buzz proudly, you high-frequency hero. The world spins because you do."
     ]
   },
-  "Protura": {
+  "protura": {
     commonName: "Coneheads & Proturans",
 vibe: "Navigating life without the social tools everyone else seems to have. Feeling directionless or primitive compared to others. Content in your small world but wondering if you're missing something.",
     quotes: [
@@ -587,7 +587,7 @@ vibe: "Navigating life without the social tools everyone else seems to have. Fee
       "No fancy features, no showy adaptations, just pure, distilled existence? You're not lacking. You're the haiku of the hexapod world. Why say more when less says everything? You're perfection in 2.5 millimeters, navigating by touch in a world that doesn't even know it needs you. But it does. Oh, it does."
     ]
   },
-  "Diplura": {
+  "diplura": {
     commonName: "Two-pronged Bristletails & Diplurans",
 vibe: "Preferring the quiet underground while everyone else seeks spotlight. Feeling simple and basic in a world that values complexity. Like you're doing essential work that no one notices or values.",
     quotes: [
@@ -608,7 +608,7 @@ vibe: "Preferring the quiet underground while everyone else seeks spotlight. Fee
       "Operating in spaces others don't even know are habitable? You're not overlooked. You're discovering frontiers in your own backyard. Every soil particle is your universe, every touch a revelation. You're proof that the most profound journeys happen when you dig deep instead of flying high."
     ]
   },
-  "Lepidoptera": {
+  "lepidoptera": {
     commonName: "Butterflies & Moths & Skippers",
 vibe: "Stuck in the messy, uncertain middle of major life transformation. Feeling fragile and vulnerable during this transitional phase. Like you're dissolving into goo before you can become who you're meant to be.",
     quotes: [
